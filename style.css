@@ -140,7 +140,7 @@ nav {
 }
 
 .header-img {
-    max-width: 100%;
+    max-width: 50%;
     mask-image: linear-gradient(to bottom, #000000, transparent 100%);
 }  
 .header-slider a {
