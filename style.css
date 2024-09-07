@@ -211,7 +211,7 @@ nav {
     max-height: 200px;
 }
 
-.products-slider .products::-webkit-scrollbar {
+.products-slider .products:{
     display: none;
 }
 .products-slider-with-price {
@@ -227,7 +227,7 @@ nav {
     gap: 10px;
     margin-top: 10px;
 }
-.products-slider-with-price .products::-webkit-scrollbar {
+.products-slider-with-price .products:{
     display: none;
 }
 .product-card {
