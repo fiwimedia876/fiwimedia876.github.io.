@@ -173,11 +173,11 @@ nav {
 .box-col {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     padding: 15px 20px;
     background: #fff;
     max-width: 24%;
-    min-height: 200px;
+    min-height: 100px;
 }
 
 .box-col a {
