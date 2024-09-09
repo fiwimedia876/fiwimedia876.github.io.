@@ -187,7 +187,7 @@ nav {
 }
 
 .header-box {
-    margin-top: -20vw;
+    margin-top: -10vw;
 }
 
 .products-slider {
@@ -206,9 +206,9 @@ nav {
 }
 
 .products-slider .products img {
-    max-width: 100px;
+    max-width: 200px;
     cursor: pointer;
-    max-height: 100px;
+    max-height: 200px;
 }
 
 .products-slider .products:{
