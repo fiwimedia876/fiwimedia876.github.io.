@@ -211,9 +211,9 @@ nav {
 }
 
 .products-slider .products img {
-    max-width: 700px;
+    max-width: 500px;
     cursor: pointer;
-    max-height: 700px;
+    max-height: 500px;
 }
 
 .products-slider .products:{
