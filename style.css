@@ -187,7 +187,12 @@ nav {
 }
 
 .header-box {
-    margin-top: -15vw;
+  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    row-gap: 10px;
+    margin: 20px 30px;  
 }
 
 .products-slider {
