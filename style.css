@@ -234,6 +234,10 @@ nav {
 }
 .products-slider-with-price .products:{
     display: none;
+   background: #fff;
+    margin: 0 30px;
+    padding: 20px;
+    margin-bottom: 15px;
 }
 .product-card {
     display: flex;
