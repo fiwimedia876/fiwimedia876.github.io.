@@ -177,7 +177,7 @@ nav {
     padding: 15px 20px;
     background: #fff;
     max-width: 24%;
-    min-height: 50px;
+    min-height: 100px;
 }
 
 .box-col a {
@@ -187,7 +187,7 @@ nav {
 }
 
 .header-box {
-    margin-top: -10vw;
+    margin-top: -15vw;
 }
 
 .products-slider {
@@ -225,7 +225,7 @@ nav {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 .products-slider-with-price .products:{
     display: none;
