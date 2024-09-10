@@ -172,7 +172,7 @@ nav {
 .box-col {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: normal;
     padding: 15px 20px;
     background: #fff;
     max-width: 15%;
