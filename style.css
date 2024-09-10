@@ -140,7 +140,7 @@ nav {
 }
 
 .header-img {
-    max-width: 75%;
+    max-width: 100%;
     mask-image: linear-gradient(to bottom, #000000, transparent 100%);
 }  
 .header-slider a {
@@ -176,7 +176,7 @@ nav {
     padding: 15px 20px;
     background: #fff;
     max-width: 24%;
-    min-height: 150px;
+    min-height: 200px;
 }
 
 .box-col a {
