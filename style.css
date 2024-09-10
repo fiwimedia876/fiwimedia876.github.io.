@@ -165,7 +165,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    row-gap: 15px;
+    row-gap: 30px;
     margin: 10px 10px;
 }
 
@@ -173,7 +173,7 @@ nav {
 .box-col {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 30px;
     padding: 15px 20px;
     background: #fff;
     max-width: 20%;
