@@ -169,13 +169,7 @@ nav {
     margin: 10px 10px;
 }
 
-.box-row-raw { background: #be0b3b;
-    color: #fff;
-    display: inline-block;
-    padding: 2px 5px;
-    border-radius: 2px;
-    
-    margin: 8px 0;}
+
 .box-col {
     display: flex;
     flex-direction: column;
