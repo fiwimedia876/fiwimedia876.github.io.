@@ -175,8 +175,8 @@ nav {
     gap: 10px;
     padding: 15px 20px;
     background: #fff;
-    max-width: 10%;
-    min-height: 100px;
+    max-width: 5%;
+    min-height: 50px;
 }
 
 .box-col a {
