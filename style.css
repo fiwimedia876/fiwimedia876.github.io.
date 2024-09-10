@@ -1,5 +1,5 @@
 body {
-  margin: 100px;
+  margin: 20px;
 }
  
 
@@ -53,7 +53,7 @@ nav {
     align-items: center;
     margin-left: 15px;
     border-radius: 4px;
-    max-width: 500px  ;
+    max-width: 1000px  ;
     color: gray;
     background: #fff;
     -webkit-border-radius: 4px;
@@ -116,7 +116,6 @@ nav {
     display: flex;
     align-items: center;
     margin-right: 0px 15px;
-    color: #fff;
 }
 .nav-bottom {
     display: flex;
@@ -166,8 +165,8 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    row-gap: 10px;
-    margin: 5px 10px;
+    row-gap: 20px;
+    margin: 20px 30px;
 }
 
 .box-col {
@@ -176,8 +175,8 @@ nav {
     gap: 10px;
     padding: 15px 20px;
     background: #fff;
-    max-width: 15%;
-    min-height: 50px;
+    max-width: 24%;
+    min-height: 200px;
 }
 
 .box-col a {
@@ -187,12 +186,7 @@ nav {
 }
 
 .header-box {
-  
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    row-gap: 10px;
-    margin: 5px 10px;  
+    margin-top: -20vw;
 }
 
 .products-slider {
@@ -211,12 +205,12 @@ nav {
 }
 
 .products-slider .products img {
-    max-width: 150px;
+    max-width: 200px;
     cursor: pointer;
-    max-height: 150px;
+    max-height: 200px;
 }
 
-.products-slider .products:{
+.products-slider .products::-webkit-scrollbar {
     display: none;
 }
 .products-slider-with-price {
@@ -230,14 +224,10 @@ nav {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
-.products-slider-with-price .products:{
+.products-slider-with-price .products::-webkit-scrollbar {
     display: none;
-   background: #fff;
-    margin: 0 30px;
-    padding: 20px;
-    margin-bottom: 15px;
 }
 .product-card {
     display: flex;
@@ -249,7 +239,7 @@ nav {
 }
 
 .product-card img {
-    max-width: 100px;
+    max-width: 110px;
     margin: 0 50px;
 }
 
