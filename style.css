@@ -140,7 +140,7 @@ nav {
 }
 
 .header-img {
-    max-width: 200%;
+    max-width: 150%;
     mask-image: linear-gradient(to bottom, #000000, transparent 100%);
 }  
 .header-slider a {
@@ -165,7 +165,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    row-gap: 20px;
+    row-gap: 15px;
     margin: 20px 30px;
 }
 
